@@ -2,4 +2,4 @@
 
 1. Encryption and Decryption 
 
-2. Graph Plotter
+2. Graph Plotter and Types of Graphs
