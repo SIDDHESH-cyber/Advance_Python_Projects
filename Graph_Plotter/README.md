@@ -1,4 +1,5 @@
-#Graph Plotter And Types 
+<h1>Graph Plotter And Types</h1>
+<br><br>
 
 1.line_graph_1  
 
