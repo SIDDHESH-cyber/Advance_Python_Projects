@@ -1,9 +1,9 @@
 <h1>Graph Plotter And Types</h1>
 
-1 . line_graph_1  
+1 . Line Graph
 
-2 . scatter_graph
+2 . Scatter Graph
 
-3 . bar_graph
+3 . Bar Graph
 
-4 . pie_chart
+4 . Pie Chart
