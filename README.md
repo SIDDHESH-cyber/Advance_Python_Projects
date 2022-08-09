@@ -5,5 +5,6 @@
 2. Graph Plotter and Types of Graphs
 
 3.Socket Programming (BASIC)
-&nbsp;<ul>URL_IP_Convertor</ul>
-&nbsp;<ul>Client_Server_Communication</ul>
+
+<ul>URL_IP_Convertor</ul>
+<ul>Client_Server_Communication</ul>
